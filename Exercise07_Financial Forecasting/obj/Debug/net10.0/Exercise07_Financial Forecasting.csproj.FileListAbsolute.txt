@@ -1,0 +1,14 @@
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\bin\Debug\net10.0\Exercise07_Financial Forecasting.exe
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\bin\Debug\net10.0\Exercise07_Financial Forecasting.deps.json
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\bin\Debug\net10.0\Exercise07_Financial Forecasting.runtimeconfig.json
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\bin\Debug\net10.0\Exercise07_Financial Forecasting.dll
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\bin\Debug\net10.0\Exercise07_Financial Forecasting.pdb
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.AssemblyInfoInputs.cache
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.AssemblyInfo.cs
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.dll
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\refint\Exercise07_Financial Forecasting.dll
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.pdb
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\Exercise07_Financial Forecasting.genruntimeconfig.cache
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise07_Financial Forecasting\obj\Debug\net10.0\ref\Exercise07_Financial Forecasting.dll

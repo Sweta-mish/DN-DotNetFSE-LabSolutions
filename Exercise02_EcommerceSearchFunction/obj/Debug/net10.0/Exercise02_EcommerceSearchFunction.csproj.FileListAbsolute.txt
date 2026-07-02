@@ -1,0 +1,14 @@
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\bin\Debug\net10.0\Exercise02_EcommerceSearchFunction.exe
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\bin\Debug\net10.0\Exercise02_EcommerceSearchFunction.deps.json
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\bin\Debug\net10.0\Exercise02_EcommerceSearchFunction.runtimeconfig.json
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\bin\Debug\net10.0\Exercise02_EcommerceSearchFunction.dll
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\bin\Debug\net10.0\Exercise02_EcommerceSearchFunction.pdb
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.AssemblyInfoInputs.cache
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.AssemblyInfo.cs
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.dll
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\refint\Exercise02_EcommerceSearchFunction.dll
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.pdb
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\Exercise02_EcommerceSearchFunction.genruntimeconfig.cache
+C:\Users\Sweta\source\repos\DN-DotNetFSE-LabSolutions\Exercise02_EcommerceSearchFunction\obj\Debug\net10.0\ref\Exercise02_EcommerceSearchFunction.dll

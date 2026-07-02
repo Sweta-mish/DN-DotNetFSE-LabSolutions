@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 5-Return Data from a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|solutionrelative:Exercise 5-Return Data from a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01-Create a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|solutionrelative:Exercise01-Create a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|NewFolder1{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01_RankingAndWindowFunctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|NewFolder1{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|solutionrelative:Exercise01_RankingAndWindowFunctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FCA9DF-B490-457B-9220-8E332F3D08AF}|Exercise07_Financial Forecasting\\Exercise07_Financial Forecasting.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise07_financial forecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FCA9DF-B490-457B-9220-8E332F3D08AF}|Exercise07_Financial Forecasting\\Exercise07_Financial Forecasting.csproj|solutionrelative:exercise07_financial forecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FCA9DF-B490-457B-9220-8E332F3D08AF}|Exercise07_Financial Forecasting\\Exercise07_Financial Forecasting.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise07_financial forecasting\\financialforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FCA9DF-B490-457B-9220-8E332F3D08AF}|Exercise07_Financial Forecasting\\Exercise07_Financial Forecasting.csproj|solutionrelative:exercise07_financial forecasting\\financialforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BCFB03-9DB3-41B0-BEF5-8D9A2D30EA50}|Exercise02_EcommerceSearchFunction\\Exercise02_EcommerceSearchFunction.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_ecommercesearchfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BCFB03-9DB3-41B0-BEF5-8D9A2D30EA50}|Exercise02_EcommerceSearchFunction\\Exercise02_EcommerceSearchFunction.csproj|solutionrelative:exercise02_ecommercesearchfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BCFB03-9DB3-41B0-BEF5-8D9A2D30EA50}|Exercise02_EcommerceSearchFunction\\Exercise02_EcommerceSearchFunction.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_ecommercesearchfunction\\searchoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BCFB03-9DB3-41B0-BEF5-8D9A2D30EA50}|Exercise02_EcommerceSearchFunction\\Exercise02_EcommerceSearchFunction.csproj|solutionrelative:exercise02_ecommercesearchfunction\\searchoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BCFB03-9DB3-41B0-BEF5-8D9A2D30EA50}|Exercise02_EcommerceSearchFunction\\Exercise02_EcommerceSearchFunction.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_ecommercesearchfunction\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BCFB03-9DB3-41B0-BEF5-8D9A2D30EA50}|Exercise02_EcommerceSearchFunction\\Exercise02_EcommerceSearchFunction.csproj|solutionrelative:exercise02_ecommercesearchfunction\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\excelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\excelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\pdffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\pdffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\wordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\wordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise02_factorymethodpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73027CD7-B60C-4E72-A21A-4A7D56547F83}|Exercise02_FactoryMethodPattern\\Exercise02_FactoryMethodPattern.csproj|solutionrelative:exercise02_factorymethodpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A00A1EF-5D51-4EA5-A98A-C143EAB44534}|Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise 1- implementing the singleton pattern\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A00A1EF-5D51-4EA5-A98A-C143EAB44534}|Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj|solutionrelative:exercise 1- implementing the singleton pattern\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A00A1EF-5D51-4EA5-A98A-C143EAB44534}|Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise 1- implementing the singleton pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A00A1EF-5D51-4EA5-A98A-C143EAB44534}|Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj|solutionrelative:exercise 1- implementing the singleton pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A00A1EF-5D51-4EA5-A98A-C143EAB44534}|Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj|c:\\users\\sweta\\source\\repos\\dn-dotnetfse-labsolutions\\exercise 1- implementing the singleton pattern\\exercise01_singletonpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A00A1EF-5D51-4EA5-A98A-C143EAB44534}|Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj|solutionrelative:exercise 1- implementing the singleton pattern\\exercise01_singletonpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|NewFolder1{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01_RankingAndWindowFunctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|NewFolder1{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|solutionrelative:Exercise01_RankingAndWindowFunctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|NewFolder1{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01_RankingAndWindowFunctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|NewFolder1{906862F3-9ED9-409A-9D2B-3D25F76A44A3}|solutionrelative:Exercise01_RankingAndWindowFunctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01-Create a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|solutionrelative:Exercise01-Create a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01-Create a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|solutionrelative:Exercise01-Create a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 5-Return Data from a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|solutionrelative:Exercise 5-Return Data from a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 5-Return Data from a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{DC536C96-ABCA-4780-B09B-193AA11A949A}|NewFolder1{DC536C96-ABCA-4780-B09B-193AA11A949A}|solutionrelative:Exercise 5-Return Data from a Stored Procedure.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise 5-Return Data from a Stored Procedure.sql ",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 5-Return Data from a Stored Procedure.sql",
+              "RelativeDocumentMoniker": "Exercise 5-Return Data from a Stored Procedure.sql",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 5-Return Data from a Stored Procedure.sql",
+              "RelativeToolTip": "Exercise 5-Return Data from a Stored Procedure.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-01T16:11:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise01-Create a Stored Procedure.sql ",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01-Create a Stored Procedure.sql",
+              "RelativeDocumentMoniker": "Exercise01-Create a Stored Procedure.sql",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01-Create a Stored Procedure.sql",
+              "RelativeToolTip": "Exercise01-Create a Stored Procedure.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-01T16:03:21.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise01_RankingAndWindowFunctions.sql ",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01_RankingAndWindowFunctions.sql",
+              "RelativeDocumentMoniker": "Exercise01_RankingAndWindowFunctions.sql",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise01_RankingAndWindowFunctions.sql",
+              "RelativeToolTip": "Exercise01_RankingAndWindowFunctions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-01T15:44:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinancialForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise07_Financial Forecasting\\FinancialForecast.cs",
+              "RelativeDocumentMoniker": "Exercise07_Financial Forecasting\\FinancialForecast.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise07_Financial Forecasting\\FinancialForecast.cs",
+              "RelativeToolTip": "Exercise07_Financial Forecasting\\FinancialForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:52:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise07_Financial Forecasting\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise07_Financial Forecasting\\Program.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise07_Financial Forecasting\\Program.cs",
+              "RelativeToolTip": "Exercise07_Financial Forecasting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:51:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_EcommerceSearchFunction\\SearchOperations.cs",
+              "RelativeDocumentMoniker": "Exercise02_EcommerceSearchFunction\\SearchOperations.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_EcommerceSearchFunction\\SearchOperations.cs",
+              "RelativeToolTip": "Exercise02_EcommerceSearchFunction\\SearchOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:39:48.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_EcommerceSearchFunction\\Product.cs",
+              "RelativeDocumentMoniker": "Exercise02_EcommerceSearchFunction\\Product.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_EcommerceSearchFunction\\Product.cs",
+              "RelativeToolTip": "Exercise02_EcommerceSearchFunction\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:39:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_EcommerceSearchFunction\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise02_EcommerceSearchFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_EcommerceSearchFunction\\Program.cs",
+              "RelativeToolTip": "Exercise02_EcommerceSearchFunction\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:37:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\DocumentFactory.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:24:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcelDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\ExcelDocument.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\ExcelDocument.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\ExcelDocument.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\ExcelDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:23:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\WordFactory.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\WordFactory.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\WordFactory.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\WordFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:24:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PdfFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\PdfFactory.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\PdfFactory.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\PdfFactory.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\PdfFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:24:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExcelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\ExcelFactory.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\ExcelFactory.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\ExcelFactory.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\ExcelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:25:43.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\Program.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:19:49.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\IDocument.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\IDocument.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\IDocument.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:21:53.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\PdfDocument.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\PdfDocument.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:22:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\WordDocument.cs",
+              "RelativeDocumentMoniker": "Exercise02_FactoryMethodPattern\\WordDocument.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise02_FactoryMethodPattern\\WordDocument.cs",
+              "RelativeToolTip": "Exercise02_FactoryMethodPattern\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:22:26.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 1- Implementing the Singleton Pattern\\Logger.cs",
+              "RelativeDocumentMoniker": "Exercise 1- Implementing the Singleton Pattern\\Logger.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 1- Implementing the Singleton Pattern\\Logger.cs",
+              "RelativeToolTip": "Exercise 1- Implementing the Singleton Pattern\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:14:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 1- Implementing the Singleton Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise 1- Implementing the Singleton Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 1- Implementing the Singleton Pattern\\Program.cs",
+              "RelativeToolTip": "Exercise 1- Implementing the Singleton Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:10:06.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Exercise01_SingletonPattern",
+              "DocumentMoniker": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj",
+              "RelativeDocumentMoniker": "Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj",
+              "ToolTip": "C:\\Users\\Sweta\\source\\repos\\DN-DotNetFSE-LabSolutions\\Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj",
+              "RelativeToolTip": "Exercise 1- Implementing the Singleton Pattern\\Exercise01_SingletonPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-01T14:10:00.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
