@@ -1,20 +1,18 @@
 <Solution>
   <Folder Name="/Deepskilling/" />
   <Folder Name="/Deepskilling/Advanced SQL server/" />
-  <Folder Name="/Deepskilling/Advanced SQL server/1. SQL Exercise - Advanced concepts/">
-    <File Path="Exercise01_RankingAndWindowFunctions.sql" />
-  </Folder>
-  <Folder Name="/Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/">
-    <File Path="Exercise 5-Return Data from a Stored Procedure.sql" />
-    <File Path="Exercise01-Create a Stored Procedure.sql" />
-  </Folder>
+  <Folder Name="/Deepskilling/Advanced SQL server/1. SQL Exercise - Advanced concepts/" />
+  <Folder Name="/Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/" />
   <Folder Name="/Deepskilling/Engineering Concepts/" />
   <Folder Name="/Deepskilling/Engineering Concepts/Data structures and Algorithms/">
-    <Project Path="Exercise02_EcommerceSearchFunction/Exercise02_EcommerceSearchFunction.csproj" Id="65bcfb03-9db3-41b0-bef5-8d9a2d30ea50" />
-    <Project Path="Exercise07_Financial Forecasting/Exercise07_Financial Forecasting.csproj" Id="99fca9df-b490-457b-9220-8e332f3d08af" />
+    <Project Path="Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise02_EcommerceSearchFunction/Exercise02_EcommerceSearchFunction.csproj" />
+    <Project Path="Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise07_Financial Forecasting/Exercise07_Financial Forecasting.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/Engineering Concepts/Design principles &amp; Patterns/">
-    <Project Path="Exercise 1- Implementing the Singleton Pattern/Exercise01_SingletonPattern.csproj" Id="3a00a1ef-5d51-4ea5-a98a-c143eab44534" />
-    <Project Path="Exercise02_FactoryMethodPattern/Exercise02_FactoryMethodPattern.csproj" Id="73027cd7-b60c-4e72-a21a-4a7d56547f83" />
+    <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise 1- Implementing the Singleton Pattern/Exercise01_SingletonPattern.csproj" />
+    <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise02_FactoryMethodPattern/Exercise02_FactoryMethodPattern.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
   </Folder>
 </Solution>
