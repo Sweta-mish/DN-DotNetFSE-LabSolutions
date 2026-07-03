@@ -17,10 +17,19 @@
     <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise 1- Implementing the Singleton Pattern/Exercise01_SingletonPattern.csproj" />
     <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise02_FactoryMethodPattern/Exercise02_FactoryMethodPattern.csproj" />
   </Folder>
-  <Folder Name="/NUnit and Moq/">
-    <Project Path="Exercise01_NUnit/NUnit_Handson.csproj" Id="aa647e35-a6cf-42e0-9fb9-5f0f6932e381" />
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/" />
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/" />
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 1 - Understanding ORM with a Retail Inventory System/">
+    <Project Path="RetailInventory/RetailInventory.csproj" Id="af84a3eb-45a8-40d8-be17-3f88c56403cf" />
   </Folder>
-  <Folder Name="/NUnit and Moq/Moq_Handson/" />
+  <Folder Name="/Deepskilling/NUnit and Moq/" />
+  <Folder Name="/Deepskilling/NUnit and Moq/Moq_Handson/">
+    <Project Path="Deepskilling/NUnit and Moq/2. Moq-Handson/CustomerComm.Tests/CustomerComm.Tests.csproj" />
+    <Project Path="Deepskilling/NUnit and Moq/2. Moq-Handson/CustomerCommLib/CustomerCommLib.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/NUnit and Moq/NUnit_Handson/">
+    <Project Path="Deepskilling/NUnit and Moq/1. NUnit-Handson/Exercise01_NUnit/Exercise01NUnit_Handson.csproj" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
