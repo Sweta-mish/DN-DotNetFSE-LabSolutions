@@ -1,8 +1,13 @@
 <Solution>
   <Folder Name="/Deepskilling/" />
   <Folder Name="/Deepskilling/Advanced SQL server/" />
-  <Folder Name="/Deepskilling/Advanced SQL server/1. SQL Exercise - Advanced concepts/" />
-  <Folder Name="/Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/" />
+  <Folder Name="/Deepskilling/Advanced SQL server/1. SQL Exercise - Advanced concepts/">
+    <File Path="Deepskilling/Advanced SQL server/1. SQL Exercise - Advanced concepts/Exercise01_RankingAndWindowFunctions.sql" />
+  </Folder>
+  <Folder Name="/Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/">
+    <File Path="Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/Exercise 5-Return Data from a Stored Procedure.sql" />
+    <File Path="Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/Exercise01-Create a Stored Procedure.sql" />
+  </Folder>
   <Folder Name="/Deepskilling/Engineering Concepts/" />
   <Folder Name="/Deepskilling/Engineering Concepts/Data structures and Algorithms/">
     <Project Path="Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise02_EcommerceSearchFunction/Exercise02_EcommerceSearchFunction.csproj" />
@@ -12,6 +17,10 @@
     <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise 1- Implementing the Singleton Pattern/Exercise01_SingletonPattern.csproj" />
     <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise02_FactoryMethodPattern/Exercise02_FactoryMethodPattern.csproj" />
   </Folder>
+  <Folder Name="/NUnit and Moq/">
+    <Project Path="Exercise01_NUnit/NUnit_Handson.csproj" Id="aa647e35-a6cf-42e0-9fb9-5f0f6932e381" />
+  </Folder>
+  <Folder Name="/NUnit and Moq/Moq_Handson/" />
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
