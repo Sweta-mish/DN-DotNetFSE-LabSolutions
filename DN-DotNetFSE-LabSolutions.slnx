@@ -20,7 +20,16 @@
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/" />
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/" />
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 1 - Understanding ORM with a Retail Inventory System/">
-    <Project Path="RetailInventory/RetailInventory.csproj" Id="af84a3eb-45a8-40d8-be17-3f88c56403cf" />
+    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 1 - Understanding ORM with a Retail Inventory System/RetailInventory/RetailInventory.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 2 - Setting Up the Database Context for a Retail Store/">
+    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 2 - Setting Up the Database Context for a Retail Store/RetailStore/RetailStore.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 3 - Using EF Core CLI to Create and Apply Migrations/">
+    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 3 - Using EF Core CLI to Create and Apply Migrations/RetailStoreMigration/RetailStoreMigration.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 4 - Inserting Initial Data into the Database/">
+    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 4 - Inserting Initial Data into the Database/RetailStoreData/RetailStoreData.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/NUnit and Moq/" />
   <Folder Name="/Deepskilling/NUnit and Moq/Moq_Handson/">
