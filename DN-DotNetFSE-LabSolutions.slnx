@@ -10,34 +10,37 @@
   </Folder>
   <Folder Name="/Deepskilling/Engineering Concepts/" />
   <Folder Name="/Deepskilling/Engineering Concepts/Data structures and Algorithms/">
-    <Project Path="Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise02_EcommerceSearchFunction/Exercise02_EcommerceSearchFunction.csproj" />
-    <Project Path="Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise07_Financial Forecasting/Exercise07_Financial Forecasting.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise02_EcommerceSearchFunction/Exercise02_EcommerceSearchFunction.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise07_Financial Forecasting/Exercise07_Financial Forecasting.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/Engineering Concepts/Design principles &amp; Patterns/">
-    <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise 1- Implementing the Singleton Pattern/Exercise01_SingletonPattern.csproj" />
-    <Project Path="Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise02_FactoryMethodPattern/Exercise02_FactoryMethodPattern.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise 1- Implementing the Singleton Pattern/Exercise01_SingletonPattern.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Engineering Concepts/Design principles &amp; Patterns/Exercise02_FactoryMethodPattern/Exercise02_FactoryMethodPattern.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/" />
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/" />
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 1 - Understanding ORM with a Retail Inventory System/">
-    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 1 - Understanding ORM with a Retail Inventory System/RetailInventory/RetailInventory.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 1 - Understanding ORM with a Retail Inventory System/RetailInventory/RetailInventory.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 2 - Setting Up the Database Context for a Retail Store/">
-    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 2 - Setting Up the Database Context for a Retail Store/RetailStore/RetailStore.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 2 - Setting Up the Database Context for a Retail Store/RetailStore/RetailStore.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 3 - Using EF Core CLI to Create and Apply Migrations/">
-    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 3 - Using EF Core CLI to Create and Apply Migrations/RetailStoreMigration/RetailStoreMigration.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 3 - Using EF Core CLI to Create and Apply Migrations/RetailStoreMigration/RetailStoreMigration.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 4 - Inserting Initial Data into the Database/">
-    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 4 - Inserting Initial Data into the Database/RetailStoreData/RetailStoreData.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 4 - Inserting Initial Data into the Database/RetailStoreData/RetailStoreData.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 5 - Retrieving Data from the Database/">
+    <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 5 - Retrieving Data from the Database/RetailStoreQuery/RetailStoreQuery.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/NUnit and Moq/" />
   <Folder Name="/Deepskilling/NUnit and Moq/Moq_Handson/">
-    <Project Path="Deepskilling/NUnit and Moq/2. Moq-Handson/CustomerComm.Tests/CustomerComm.Tests.csproj" />
-    <Project Path="Deepskilling/NUnit and Moq/2. Moq-Handson/CustomerCommLib/CustomerCommLib.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/NUnit and Moq/2. Moq-Handson/CustomerComm.Tests/CustomerComm.Tests.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/NUnit and Moq/2. Moq-Handson/CustomerCommLib/CustomerCommLib.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/NUnit and Moq/NUnit_Handson/">
-    <Project Path="Deepskilling/NUnit and Moq/1. NUnit-Handson/Exercise01_NUnit/Exercise01NUnit_Handson.csproj" />
+    <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/NUnit and Moq/1. NUnit-Handson/Exercise01_NUnit/Exercise01NUnit_Handson.csproj" />
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
