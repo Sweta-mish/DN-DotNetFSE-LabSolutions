@@ -1,0 +1,6 @@
+@_1._Web_Api_using_.Net_core_with_Swagger_HostAddress = http://localhost:5148
+
+GET {{_1._Web_Api_using_.Net_core_with_Swagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

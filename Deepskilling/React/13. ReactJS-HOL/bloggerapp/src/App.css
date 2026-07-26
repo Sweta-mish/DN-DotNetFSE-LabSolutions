@@ -1,0 +1,27 @@
+.container{
+    display:flex;
+    justify-content:space-around;
+    margin:40px;
+}
+
+.column{
+    width:30%;
+    border-left:4px solid green;
+    padding-left:20px;
+}
+
+h1{
+    font-size:40px;
+}
+
+h2{
+    font-size:30px;
+}
+
+h3{
+    font-size:24px;
+}
+
+h4{
+    font-size:20px;
+}

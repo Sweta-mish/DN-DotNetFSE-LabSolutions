@@ -1,0 +1,6 @@
+@_1._First_Web_Api_using_.Net_core_HostAddress = http://localhost:5294
+
+GET {{_1._First_Web_Api_using_.Net_core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
