@@ -8,6 +8,22 @@
     <File Path="Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/Exercise 5-Return Data from a Stored Procedure.sql" />
     <File Path="Deepskilling/Advanced SQL server/4. SQL Exercise - Stored procedure/Exercise01-Create a Stored Procedure.sql" />
   </Folder>
+  <Folder Name="/Deepskilling/ASP.NET Core 8.0 Web API/" />
+  <Folder Name="/Deepskilling/ASP.NET Core 8.0 Web API/1.WebApi_Handson/">
+    <Project Path="Deepskilling/ASP.NET Core 8.0 Web API/1. First Web Api using .Net core/1. First Web Api using .Net core.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/ASP.NET Core 8.0 Web API/2. WebApi_Handson/">
+    <Project Path="1. Web Api using .Net core with Swagger/1. Web Api using .Net core with Swagger.csproj" Id="c5ec4759-089c-46da-b4c0-ea00a3d1fa3e" />
+  </Folder>
+  <Folder Name="/Deepskilling/ASP.NET Core 8.0 Web API/3.WebApi_Handson/">
+    <Project Path="1. Web Api using custom model class/1. Web Api using custom model class.csproj" Id="c4ee38ed-5feb-486e-a5cc-0c380420a721" />
+  </Folder>
+  <Folder Name="/Deepskilling/ASP.NET Core 8.0 Web API/4.WebApi_Handson/">
+    <Project Path="1. Web Api CRUD operation/1. Web Api CRUD operation.csproj" Id="7657baa8-26f8-469e-87ff-65a1003da0d5" />
+  </Folder>
+  <Folder Name="/Deepskilling/ASP.NET Core 8.0 Web API/5. WebApi_Handson/">
+    <Project Path="1. Web Api JWT Authentication/1. Web Api JWT Authentication.csproj" Id="0aff38d8-1814-4d3a-a1e1-9cd63e928d81" />
+  </Folder>
   <Folder Name="/Deepskilling/Engineering Concepts/" />
   <Folder Name="/Deepskilling/Engineering Concepts/Data structures and Algorithms/">
     <Project Path="../../../../../source/repos/DN-DotNetFSE-LabSolutions/Deepskilling/Engineering Concepts/Data structures and Algorithms/Exercise02_EcommerceSearchFunction/Exercise02_EcommerceSearchFunction.csproj" />
@@ -33,6 +49,9 @@
   </Folder>
   <Folder Name="/Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 5 - Retrieving Data from the Database/">
     <Project Path="Deepskilling/Entity Framework Core 8.0/EF Core 8.0 HOL/Lab 5 - Retrieving Data from the Database/RetailStoreQuery/RetailStoreQuery.csproj" />
+  </Folder>
+  <Folder Name="/Deepskilling/Microservices using ASP.NET Core Web API/">
+    <Project Path="Deepskilling/Microservices using ASP.NET Core Web API/1. Microservices - JWT/1. Microservices - JWT.csproj" />
   </Folder>
   <Folder Name="/Deepskilling/NUnit and Moq/" />
   <Folder Name="/Deepskilling/NUnit and Moq/Moq_Handson/">
